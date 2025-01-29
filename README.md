@@ -76,6 +76,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=guilhermegeisler&theme=onedark&column=4&row=3&margin-w=30&margin-h=20" alt="guilhermegeisler" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
