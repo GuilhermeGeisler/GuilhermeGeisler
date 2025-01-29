@@ -25,5 +25,3 @@ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/de
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermegeisler&show_icons=true&locale=en" alt="guilhermegeisler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegeisler&" alt="guilhermegeisler" /></p>
-
-![Snake animation](https://github.com/GuilhermeGeisler/GuilhermeGeisler/blob/output/github-contribution-grid-snake.svg)
