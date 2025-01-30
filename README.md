@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guilherme Geisler</h1>
 <h3 align="center">A passionate Backend developer looking for my first job</h3>
 
+
+<div align="center">
+  <img height="150" src="https://img.wattpad.com/6ebdd6b104af95cfa865889cf2085e1c739d398f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6944454a6248645a6c5263744c513d3d2d313036313533303639382e313637393762653462363830633732383134353231363537303433392e676966"  />
+</div>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=guilhermegeisler&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermegeisler" /> 
 </p>
