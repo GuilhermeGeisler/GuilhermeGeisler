@@ -11,9 +11,10 @@
 
 - 🌱 I’m currently learning **Java** and **MySQL**.
 - 💬 Ask me about **Java** or **Backend Development**.
-- 📫 How to reach me: **[guilherme.sgeisler@gmail.com](mailto:guilherme.sgeisler@gmail.com)**
 
-[![Spotify](spotify-readme-q9xn2mn48-guilhermegeislers-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22ncx7ovwuyop65vigo355vxi)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ncx7ovwuyop65vigo355vxi" alt="Spotify Recently Played" />
+</p>
 
 ---
 
@@ -22,6 +23,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/guilhermegeisler" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermegeisler" height="30" width="40" />
+  </a>
+  <a href="mailto:guilherme.sgeisler@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </p>
 
@@ -95,13 +99,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermegeisler&show_icons=true&locale=en&theme=onedark" alt="guilhermegeisler" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegeisler&theme=onedark" alt="guilhermegeisler" />
 </p>
-
----
-
-### 📧 Contact Me
-
-- **Email:** [guilherme.sgeisler@gmail.com](mailto:guilherme.sgeisler@gmail.com)
-- **LinkedIn:** [Guilherme Geisler](https://linkedin.com/in/guilhermegeisler)
 
 ---
 
