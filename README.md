@@ -13,6 +13,8 @@
 - 💬 Ask me about **Java** or **Backend Development**.
 - 📫 How to reach me: **[guilherme.sgeisler@gmail.com](mailto:guilherme.sgeisler@gmail.com)**
 
+[![Spotify](spotify-readme-q9xn2mn48-guilhermegeislers-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22ncx7ovwuyop65vigo355vxi)
+
 ---
 
 ### 🔗 Connect with Me
