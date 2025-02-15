@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Guilherme Geisler</h1>
-<h3 align="center">A passionate Backend developer looking for my first job</h3>
+# Hi 👋, I'm Guilherme Geisler, Welcome to my Profile!
 
+![Header](./github-header-image.png)
 
-<div align="center">
-  <img height="150" src="https://img.wattpad.com/6ebdd6b104af95cfa865889cf2085e1c739d398f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6944454a6248645a6c5263744c513d3d2d313036313533303639382e313637393762653462363830633732383134353231363537303433392e676966"  />
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=guilhermegeisler&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermegeisler" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=913239&width=725&separator=%3C&lines=System.out.println(%22Hello+World!%22);%3CI'm+a+passionate+back-end+developer+looking+for+my+first+job%3CSELECT+*+FROM+usuarios+WHERE+nome+%3D+'Guilherme+Geisler';%3CI'm+available+for+new+opportunities!)](https://git.io/typing-svg)
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Java** and **MySQL**.
-- 💬 Ask me about **Java** or **Backend Development**.
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ncx7ovwuyop65vigo355vxi" alt="Spotify Recently Played" />
-</p>
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      - 🌱 I’m currently learning <strong>Java</strong> and <strong>MySQL</strong>.<br>
+      - 💬 Ask me about <strong>Java</strong> or <strong>Backend Development</strong>.<br>
+      - 🎓 I'm currently studying <strong>Computer Science</strong> at the Regional University of Blumenau.
+    </td>
+    <td align="right" style="padding-left: 20px; vertical-align: middle;">
+      <img height="150" src="https://img.wattpad.com/6ebdd6b104af95cfa865889cf2085e1c739d398f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6944454a6248645a6c5263744c513d3d2d313036313533303639382e313637393762653462363830633732383134353231363537303433392e676966" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -90,7 +88,6 @@
 
 ### 📊 GitHub Stats
 
-
 <div align="center">
 
 ![Github Streak](https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegeisler&show_icons=true&locale=en&layout=compact&theme=onedark)
@@ -112,3 +109,9 @@
 ![Github Streak](https://github-profile-trophy.vercel.app/?username=guilhermegeisler&theme=onedark&column=4&row=3&margin-w=30&margin-h=20)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ncx7ovwuyop65vigo355vxi" alt="Spotify Recently Played" />
+</p>
