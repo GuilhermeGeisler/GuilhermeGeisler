@@ -121,5 +121,7 @@
 ---
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ncx7ovwuyop65vigo355vxi" alt="Spotify Recently Played" />
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=22ncx7ovwuyop65vigo355vxi">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22ncx7ovwuyop65vigo355vxi" alt="Data Card for Spotify">
+</a>
 </p>
