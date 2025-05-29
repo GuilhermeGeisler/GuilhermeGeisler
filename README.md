@@ -116,6 +116,7 @@
 
 <div align="center">
   <img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" alt="Amigo Secreto Badge" width="150" />
+  <img src="https://drive.usercontent.google.com/download?id=1sydD5uiylj9LbAmRQn6OB7M263vFwaon" alt="Conversor de Moedas Badge" width="150" />
 </div>
 
 ---
