@@ -9,8 +9,10 @@
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      - 🌱 I’m currently learning <strong>Java</strong> and <strong>MySQL</strong>.<br>
-      - 💬 Ask me about <strong>Java</strong> or <strong>Backend Development</strong>.<br>
+      - 🐍 I’m currently learning <strong>Python for AI</strong> to use in college.<br>
+      - ⚛️ I’m learning <strong>React</strong> and <strong>Node.js</strong> on my own.<br>
+      - 🧠 I’m also developing <strong>soft skills</strong> through self-study and training programs at <strong>RocketSeat 🚀</strong>.<br>
+      - 💬 Ask me about <strong>Front-End Development</strong>.<br>
       - 🎓 I'm currently studying <strong>Computer Science</strong> at the Regional University of Blumenau.
     </td>
     <td align="right" style="padding-left: 20px; vertical-align: middle;">
