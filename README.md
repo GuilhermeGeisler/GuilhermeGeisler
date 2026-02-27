@@ -76,23 +76,22 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeGeisler&layout=compact&theme=dark)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeGeisler&theme=dark)
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeGeisler&show_icons=true&theme=dark)
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="150" width="300"
+        src="https://github-readme-stats-fast.vercel.app/api?username=GuilhermeGeisler&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img height="150" width="300"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeGeisler&layout=compact&theme=dark" />
+    </td>
+    <td>
+      <img height="150" width="300"
+        src="https://streak-stats.demolab.com?user=GuilhermeGeisler&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ## 🐍 Contribution Snake
 
