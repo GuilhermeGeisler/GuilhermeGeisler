@@ -3,6 +3,7 @@
 ![Header](./github-header-image.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=913239&width=725&separator=%3C&lines=console.log(%22Hello+World!%22);%3CFront-end+developer+focused+on+modern+web+interfaces;%3CComputer+Science+student+at+FURB;%3CLooking+for+my+first+opportunity+as+a+developer!)](https://git.io/typing-svg)
+
 ---
 
 <table>
@@ -19,7 +20,9 @@
       <img height="150" src="https://img.wattpad.com/6ebdd6b104af95cfa865889cf2085e1c739d398f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6944454a6248645a6c5263744c513d3d2d313036313533303639382e313637393762653462363830633732383134353231363537303433392e676966" />
     </td>
     <td>
-      <a href="https://app.rocketseat.com.br/me/geisler"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=geisler&type=card" width="150" alt="Guilherme Da Silva Geisler's Rocket ID"/></a>
+      <a href="https://app.rocketseat.com.br/me/geisler">
+        <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=geisler&type=card" width="150" alt="Guilherme Da Silva Geisler's Rocket ID"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -75,13 +78,19 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegeisler&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeGeisler&layout=compact&theme=dark)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermegeisler&theme=onedark)
+![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeGeisler&theme=dark)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGeisler&show_icons=true&theme=dark)
 
 </div>
 
@@ -91,9 +100,17 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=guilhermegeisler&theme=onedark&column=4&row=2&margin-w=20&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GuilhermeGeisler&theme=dark&no-frame=true&margin-w=15)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuilhermeGeisler/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
