@@ -3,7 +3,6 @@
 ![Header](./github-header-image.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=913239&width=725&separator=%3C&lines=console.log(%22Hello+World!%22);%3CFront-end+developer+focused+on+modern+web+interfaces;%3CComputer+Science+student+at+FURB;%3CLooking+for+my+first+opportunity+as+a+developer!)](https://git.io/typing-svg)
-
 ---
 
 <table>
@@ -18,6 +17,9 @@
     </td>
     <td align="right" style="padding-left: 20px; vertical-align: middle;">
       <img height="150" src="https://img.wattpad.com/6ebdd6b104af95cfa865889cf2085e1c739d398f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6944454a6248645a6c5263744c513d3d2d313036313533303639382e313637393762653462363830633732383134353231363537303433392e676966" />
+    </td>
+    <td>
+      <a href="https://app.rocketseat.com.br/me/geisler"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=geisler&type=card" width="150" alt="Guilherme Da Silva Geisler's Rocket ID"/></a>
     </td>
   </tr>
 </table>
