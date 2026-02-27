@@ -90,21 +90,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGeisler&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeGeisler&show_icons=true&theme=dark)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GuilhermeGeisler&theme=dark&no-frame=true&margin-w=15)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
