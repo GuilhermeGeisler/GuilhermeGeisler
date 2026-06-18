@@ -189,6 +189,6 @@ Atuei em dois projetos simultâneos — desenvolvimento front-end e qualidade de
 <div align="center">
 
 *"Sua maior força é a mentalidade de 'problem solver' — ele não espera as respostas, ele as constrói."*
-<br>— Luigi Cleffi, Senior Software Engineer @ PressCentric (supervisor direto)
+<br>— Luigi Cleffi, Senior Software Engineer @ Pause4Code (supervisor direto)
 
 </div>
