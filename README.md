@@ -45,7 +45,24 @@
 <summary><strong>🏢 Pause 4 Code — Software Engineer</strong></summary>
 <br>
 
-Atuei em dois projetos simultâneos — desenvolvimento front-end e qualidade de software:
+Atuei em três projetos simultâneos — desenvolvimento front-end, qualidade de software e desenvolvimento web:
+
+### 🖨️ Backoffice Gráfico (Canadá) — Quality Assurance
+> Sistema de backoffice para o setor gráfico canadense
+
+- 🐛 Testes manuais, reprodução e documentação de bugs com evidências (screenshots, logs, URLs)
+- 🔍 Análise de código **React/TypeScript/GraphQL** para identificação de causa raiz
+- 🗄️ Investigação de falhas via **SQL**, mutations e erros de API
+- 📋 Relatórios detalhados e colaboração direta com o time de desenvolvimento
+
+### 💰 Pouply — Front-end Development
+> Aplicativo web de finanças pessoais com metas e orçamentos
+
+- ⚛️ Desenvolvimento com **Next.js, TypeScript e GraphQL**
+- 🏗️ Arquitetura limpa com **Domain-Driven Design** e princípios SOLID
+- 🔐 Autenticação, dashboard interativo e gráficos de progresso financeiro
+- 🌍 Internacionalização (i18n) e temas claro/escuro
+- 🚀 Colaboração em todas as camadas — frontend web, backend Node.js e PostgreSQL
 
 ### 🧵 ERP Têxtil — Front-end Development
 > Sistema ERP para empresa do setor têxtil do Sul do Brasil
@@ -55,14 +72,6 @@ Atuei em dois projetos simultâneos — desenvolvimento front-end e qualidade de
 - 📊 Dashboards interativos e relatórios gerenciais em tempo real
 - 🔗 Integração com **APIs GraphQL** e gerenciamento de estado para dados empresariais
 - 📝 Documentação técnica: casos de uso, diagramas de classe e regras de negócio
-
-### 🖨️ Backoffice Gráfico (Canadá) — Quality Assurance
-> Sistema de backoffice para o setor gráfico canadense
-
-- 🐛 Testes manuais, reprodução e documentação de bugs com evidências (screenshots, logs, URLs)
-- 🔍 Análise de código **React/TypeScript/GraphQL** para identificação de causa raiz
-- 🗄️ Investigação de falhas via **SQL**, mutations e erros de API
-- 📋 Relatórios detalhados e colaboração direta com o time de desenvolvimento
 
 </details>
 
