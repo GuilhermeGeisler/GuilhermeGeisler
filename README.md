@@ -188,7 +188,7 @@ Atuei em três projetos simultâneos — desenvolvimento front-end, qualidade de
 ### 🎵 Currently Listening
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=22ncx7ovwuyop65vigo355vxi">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22ncx7ovwuyop65vigo355vxi" alt="Spotify Data Card">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22ncx7ovwuyop65vigo355vxi" alt="Data Card for Spotify">
 </a>
 
 </div>
