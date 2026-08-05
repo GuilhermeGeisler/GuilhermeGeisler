@@ -2,7 +2,7 @@
 
 ![Header](./github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=913239&width=750&center=true&separator=%3C&lines=console.log(%22Hello+World!%22);%3CSoftware+Engineer+%40+Pause+4+Code+%F0%9F%8F%A2;%3CFront-end+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+GraphQL;%3CCS+student+at+FURB+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+MEC;%3CProblem+solver+first%2C+developer+second+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=913239&width=750&center=true&separator=%3C&lines=console.log(%22Hello+World!%22);%3CJunior+Developer+%40+Catcom+Software+%F0%9F%92%BB;%3CFront-end+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+GraphQL;%3CCS+student+at+FURB+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+MEC;%3CProblem+solver+first%2C+developer+second+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GuilhermeGeisler&color=913239&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermegeisler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermegeisler)
@@ -17,13 +17,14 @@
   <tr>
     <td style="vertical-align: middle; width: 60%;">
       <h3>👋 About Me</h3>
-      🏢 Software Engineer at <strong>Pause 4 Code</strong><br><br>
-      ⚛️ Front-end dev with <strong>React, Next.js & TypeScript</strong> in production<br>
-      🔗 Experienced with <strong>GraphQL APIs</strong> and complex enterprise systems<br>
-      🧪 Also worked in <strong>QA</strong> — code analysis, root cause investigation, bug reports<br>
-      🎓 CS @ <strong>FURB</strong> (5 ⭐ MEC) — graduating 2028<br>
-      🐍 Exploring <strong>Python for AI</strong> in academic projects<br>
-      🧠 Leveling up constantly at <strong>Rocketseat 🚀</strong><br>
+      🏢 Desenvolvedor Júnior (CLT) na <strong>Catcom Software</strong><br><br>
+      🎓 Em treinamento: fundamentos de desenvolvimento web (frontend e backend), arquitetura full-stack, segurança, testes automatizados e CI/CD<br>
+      🤝 Colaboração ocasional com a <strong>Pause 4 Code</strong><br>
+      ⚛️ Front-end dev com <strong>React, Next.js & TypeScript</strong> em produção<br>
+      🔗 Experiência com <strong>GraphQL APIs</strong> e sistemas corporativos complexos<br>
+      🎓 CS @ <strong>FURB</strong> (5 ⭐ MEC) — graduando em 2028<br>
+      🐍 Explorando <strong>Python para IA</strong> em projetos acadêmicos<br>
+      🧠 Evoluindo constantemente na <strong>Rocketseat 🚀</strong><br>
       📍 Blumenau, SC — Brasil
     </td>
     <td align="center" style="vertical-align: middle; width: 20%;">
@@ -42,10 +43,27 @@
 ## 💼 Professional Experience
 
 <details open>
-<summary><strong>🏢 Pause 4 Code — Software Engineer</strong></summary>
+<summary><strong>🏢 Catcom Software — Desenvolvedor Júnior (CLT)</strong></summary>
 <br>
 
-Atuei em três projetos simultâneos — desenvolvimento front-end, qualidade de software e desenvolvimento web:
+> 📅 ago/2026 - o momento · Santa Catarina, Brasil (Remoto)
+
+Atualmente em fase de treinamento, cobrindo desde fundamentos de desenvolvimento web (frontend e backend) até práticas mais avançadas de arquitetura de aplicações full-stack, incluindo boas práticas de segurança, testes automatizados, integração contínua e deploy em ambiente de produção.
+
+Priorizando a compreensão profunda dos sistemas antes de atuar neles, com foco em qualidade, segurança e conformidade com boas práticas de proteção de dados.
+
+- 🏗️ Fundamentos de desenvolvimento web full-stack
+- 🔐 Boas práticas de segurança e proteção de dados
+- 🧪 Testes automatizados
+- 🔄 Integração contínua (CI) e deploy em produção
+
+</details>
+
+<details>
+<summary><strong>🏢 Pause 4 Code — Software Engineer (colaboração ocasional)</strong></summary>
+<br>
+
+Atuei em três projetos simultâneos — desenvolvimento front-end, qualidade de software e desenvolvimento web. Hoje colaboro de forma pontual.
 
 ### 🖨️ Backoffice Gráfico (Canadá) — Quality Assurance
 > Sistema de backoffice para o setor gráfico canadense
